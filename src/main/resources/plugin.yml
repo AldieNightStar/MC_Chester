@@ -1,0 +1,8 @@
+main: haxidenti.chester.Main
+name: Chester
+version: 1.0
+author: haxidenti
+description: Chester plugin
+api-version: 1.13
+depend:
+  - Homio
